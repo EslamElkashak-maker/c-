@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Estimate for carpet cleaning service");
+Console.Write("Number of small carpets : ");
+int smallCarpet=Convert.ToInt32(Console.ReadLine());
+Console.Write("Number of large carpets : ");
+int largeCarpet=Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Price per small room : $25");
+Console.WriteLine("Price per large room : $35");
+int cost =Convert.ToInt32(smallCarpet * 25 + largeCarpet * 35);
+Console.WriteLine("Cost : $"+ cost);
+Console.WriteLine("Tax : $6.6");
+Console.WriteLine("Total estimate : $"+(cost+6.6));
+Console.WriteLine("This estimate is valid for 30 days");
