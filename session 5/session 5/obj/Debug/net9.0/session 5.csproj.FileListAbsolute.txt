@@ -1,0 +1,28 @@
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.exe
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.deps.json
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.runtimeconfig.json
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.dll
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.pdb
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.AssemblyInfoInputs.cache
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.AssemblyInfo.cs
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.dll
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\refint\session 5.dll
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.pdb
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.genruntimeconfig.cache
+C:\Users\eslam\Desktop\.net\tasks\session 5\session 5\obj\Debug\net9.0\ref\session 5.dll
+E:\New folder (4)\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.exe
+E:\New folder (4)\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.deps.json
+E:\New folder (4)\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.runtimeconfig.json
+E:\New folder (4)\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.dll
+E:\New folder (4)\.net\tasks\session 5\session 5\bin\Debug\net9.0\session 5.pdb
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.AssemblyInfoInputs.cache
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.AssemblyInfo.cs
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.csproj.CoreCompileInputs.cache
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.dll
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\refint\session 5.dll
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.pdb
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\session 5.genruntimeconfig.cache
+E:\New folder (4)\.net\tasks\session 5\session 5\obj\Debug\net9.0\ref\session 5.dll
