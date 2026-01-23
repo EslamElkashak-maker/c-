@@ -1,0 +1,28 @@
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.AssemblyInfoInputs.cache
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.AssemblyInfo.cs
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Desktop\.net\exam\exam\bin\Debug\net10.0\exam.exe
+C:\Users\eslam\Desktop\.net\exam\exam\bin\Debug\net10.0\exam.deps.json
+C:\Users\eslam\Desktop\.net\exam\exam\bin\Debug\net10.0\exam.runtimeconfig.json
+C:\Users\eslam\Desktop\.net\exam\exam\bin\Debug\net10.0\exam.dll
+C:\Users\eslam\Desktop\.net\exam\exam\bin\Debug\net10.0\exam.pdb
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.dll
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\refint\exam.dll
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.pdb
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\exam.genruntimeconfig.cache
+C:\Users\eslam\Desktop\.net\exam\exam\obj\Debug\net10.0\ref\exam.dll
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\bin\Debug\net10.0\exam.exe
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\bin\Debug\net10.0\exam.deps.json
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\bin\Debug\net10.0\exam.runtimeconfig.json
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\bin\Debug\net10.0\exam.dll
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\bin\Debug\net10.0\exam.pdb
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.AssemblyInfoInputs.cache
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.AssemblyInfo.cs
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.dll
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\refint\exam.dll
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.pdb
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\exam.genruntimeconfig.cache
+C:\Users\eslam\Desktop\.net\tasks\session 11 task\exam\obj\Debug\net10.0\ref\exam.dll
